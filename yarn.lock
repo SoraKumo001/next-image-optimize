@@ -226,10 +226,10 @@ undici-types@~5.26.4:
   resolved "https://registry.yarnpkg.com/undici-types/-/undici-types-5.26.5.tgz#bcd539893d00b56e964fd2657a4866b221a65617"
   integrity sha512-JlCMO+ehdEIKqlFxk6IfVoAUVmgz7cU7zD/h9XZ0qzeosSHmUJVOzSQvvYSYWXkFXC+IfLKSIffhv0sVZup6pA==
 
-wasm-image-optimization@^0.1.4:
-  version "0.1.4"
-  resolved "https://registry.yarnpkg.com/wasm-image-optimization/-/wasm-image-optimization-0.1.4.tgz#3feeeda0bae0c2eae5a71df50e5fd4d712c23fd6"
-  integrity sha512-LJqXP7FvR9TVAkkkuxlzVIvUq4gGLpYSgMb5dXey3yXg/7538G7iP7hn646iFSpguTZHfvT/XCgCU8zgI7mi7Q==
+wasm-image-optimization@^0.1.5:
+  version "0.1.5"
+  resolved "https://registry.yarnpkg.com/wasm-image-optimization/-/wasm-image-optimization-0.1.5.tgz#efccc3ce4575289f25339ec7fa798b71140a8080"
+  integrity sha512-7mmeKnr/6a3r1rWeakb3seJFLZZJxvXR01bvG1uCTCHVmADZ/QOEf6HLsVTDk1ruPSX3DM3+Qq6StX8WyLBwtQ==
 
 watchpack@2.4.0:
   version "2.4.0"

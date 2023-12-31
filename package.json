@@ -1,0 +1,17 @@
+{
+  "name": "next-image-optimize",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "next": "^14.0.4",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "wasm-image-optimization": "^0.1.2"
+  },
+  "devDependencies": {
+    "@types/node": "20.10.6",
+    "@types/react": "18.2.46",
+    "typescript": "5.3.3"
+  }
+}

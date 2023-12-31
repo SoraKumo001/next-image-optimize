@@ -1,5 +1,5 @@
 import { NextRequest, NextResponse } from "next/server";
-import { optimizeImage } from "wasm-image-optimization";
+import { optimizeImage } from "wasm-image-optimization/next";
 
 export const GET = async (
   req: NextRequest,
